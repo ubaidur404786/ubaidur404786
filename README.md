@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ubaidfr404786@gmail.com)
 [![Location Badge](https://img.shields.io/badge/-Valbonne%2C%20France-gray?style=flat&logo=google-maps&logoColor=white)]()
 
-I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université Côte d'Azur*. I specialize in bridging the gap between **Advanced Deep Learning Research** (Medical AI, Vision) and **Production Engineering** (Edge AI, Full Stack Integration).
+I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université Côte d'Azur*. I specialize in bridging the gap between **Advanced Deep Learning Research** (NLP, Medical AI, Vision) and **Production Engineering** (Edge AI, Full Stack Integration).
 
 ---
 
