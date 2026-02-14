@@ -45,7 +45,7 @@ I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université C�
 
 ### 📂 Spotlight Repository: The Agent Grid
 
-### [🦜🔗 LangChain Practice & Agent Patterns](https://github.com/ubaidur404786/langchain_practice)
+### [🦜🔗 LangChain Practice & Agent Patterns](https://github.com/ubaidur404786/langchain-practice)
 A comprehensive repository where I construct a **Grid of Techniques** for building AI Agents across different domains.
 
 | **Technique** | **Description** |
