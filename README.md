@@ -50,10 +50,10 @@ A comprehensive repository where I construct a **Grid of Techniques** for buildi
 
 | **Technique** | **Description** |
 | :--- | :--- |
+| **🔥 Fine-Tuning** | End-to-end pipeline: **SAP Dataset Extraction** from raw JSON logs -> **QLoRA Fine-Tuning** on 6GB VRAM (TinyLlama/Gemma). |
 | **🧩 Custom Tools** | Creating specific `@tool` functions for weather, stock data, and mathematical computation. |
 | **🔄 Auto-Calling** | Implementing **Automatic Tool Calling** where the LLM parses args and executes functions without manual intervention. |
 | **🕸️ LangGraph** | Transitioning from legacy `AgentExecutor` to modern stateful graphs for complex workflows. |
-| **🧠 Local LLMs** | Running Agents entirely offline using **Ollama (Mistral/Llama)** for privacy-first AI. |
 
 ---
 
@@ -62,16 +62,16 @@ A comprehensive repository where I construct a **Grid of Techniques** for buildi
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧬 Research & Medical</h3>
-      <p><strong>• LC-MS Bacteria Recognition:</strong> Classified 28 bacterial species using Dimensionality Reduction (PCA, VAE) on 100k+ features.</p>
-      <p><strong>• PlantCLEF 2025:</strong> Multi-label plant classification using Vision Transformers (ViT) and hierarchical taxonomy.</p>
-      <p><strong>• Med-Vision AI:</strong> End-to-end pipelines for medical signal analysis and computer vision.</p>
+      <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
+      <p><strong>• <a href="https://github.com/ubaidur404786/langchain-practice/tree/main/Dataset%20Extraction%20and%20LLM%20Fine%20tuning">SAP KBA Fine-Tuning (QLoRA):</a></strong> Built a custom dataset from SAP JSON logs and fine-tuned <strong>TinyLlama-1.1B</strong> on low-resource hardware (RTX 3050) for technical support QA.</p>
+      <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
+      <p><strong>• Agentic Workflows:</strong> Autonomous agents capable of using tools and self-correction.</p>
     </td>
     <td width="50%">
       <h3 align="center">📱 Engineering & Edge AI</h3>
       <p><strong>• SmartScan AI:</strong> Real-time YOLOv8 inference on mobile devices optimized via TFLite.</p>
-      <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
       <p><strong>• Activity Recognition App:</strong> 1D-CNN running at 50Hz on Android for human activity tracking.</p>
+      <p><strong>• LC-MS Recognition:</strong> Classified 28 bacterial species using Dimensionality Reduction (PCA, VAE) on 100k+ features.</p>
     </td>
   </tr>
 </table>
