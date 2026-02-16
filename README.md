@@ -63,9 +63,9 @@ A comprehensive repository where I construct a **Grid of Techniques** for buildi
   <tr>
     <td width="50%">
       <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
+      <p><strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer:</a></strong> PyTorch implementation of a Deep Convolutional GAN to synthesize realistic 64x64 human faces from random noise.</p>
       <p><strong>• <a href="https://github.com/ubaidur404786/langchain-practice/tree/main/Dataset%20Extraction%20and%20LLM%20Fine%20tuning">SAP KBA Fine-Tuning (QLoRA):</a></strong> Built a custom dataset from SAP JSON logs and fine-tuned <strong>TinyLlama-1.1B</strong> on low-resource hardware (RTX 3050) for technical support QA.</p>
       <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
-      <p><strong>• Agentic Workflows:</strong> Autonomous agents capable of using tools and self-correction.</p>
     </td>
     <td width="50%">
       <h3 align="center">📱 Engineering & Edge AI</h3>
