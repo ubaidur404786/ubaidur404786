@@ -19,6 +19,7 @@ I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université C�
 | **📱 Edge & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) |
 | **⚡ Full Stack AI** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) |
 | **⚙️ MLOps & RL** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-black?style=flat&logo=openai) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
+| **📡 Signal Processing** | ![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Librosa](https://img.shields.io/badge/Librosa-FFA500?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 
 ---
 
@@ -60,21 +61,27 @@ A comprehensive repository where I construct a **Grid of Techniques** for buildi
 ### 🏆 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
-      <p><strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer:</a></strong> PyTorch implementation of a Deep Convolutional GAN to synthesize realistic 64x64 human faces from random noise.</p>
-      <p><strong>• <a href="https://github.com/ubaidur404786/langchain-practice/tree/main/Dataset%20Extraction%20and%20LLM%20Fine%20tuning">SAP KBA Fine-Tuning (QLoRA):</a></strong> Built a custom dataset from SAP JSON logs and fine-tuned <strong>TinyLlama-1.1B</strong> on low-resource hardware (RTX 3050) for technical support QA.</p>
-      <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Engineering & Edge AI</h3>
-      <p><strong>• SmartScan AI:</strong> Real-time YOLOv8 inference on mobile devices optimized via TFLite.</p>
-      <p><strong>• Activity Recognition App:</strong> 1D-CNN running at 50Hz on Android for human activity tracking.</p>
-      <p><strong>• LC-MS Recognition:</strong> Classified 28 bacterial species using Dimensionality Reduction (PCA, VAE) on 100k+ features.</p>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
+      <p><strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer:</a></strong> PyTorch implementation of a Deep Convolutional GAN to synthesize realistic 64x64 human faces from random noise.</p>
+      <p><strong>• <a href="https://github.com/ubaidur404786/langchain-practice/tree/main/Dataset%20Extraction%20and%20LLM%20Fine%20tuning">SAP KBA Fine-Tuning (QLoRA):</a></strong> Built a custom dataset from SAP JSON logs and fine-tuned <strong>TinyLlama-1.1B</strong> on low-resource hardware (RTX 3050) for technical support QA.</p>
+      <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Engineering & Edge AI</h3>
+      <p><strong>• SmartScan AI:</strong> Real-time YOLOv8 inference on mobile devices optimized via TFLite.</p>
+      <p><strong>• Activity Recognition App:</strong> 1D-CNN running at 50Hz on Android for human activity tracking.</p>
+      <p><strong>• LC-MS Recognition:</strong> Classified 28 bacterial species using Dimensionality Reduction (PCA, VAE) on 100k+ features.</p>
+    </td>
+  </tr>
 </table>
+
+---
+
+### 📚 Other Interesting Repositories
+
+* **[🎵 Signal Pre-Processing for Deep Learning](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning):** A "Zero to Hero" guide on converting raw audio waveforms into Mel-Spectrograms (Images) for Convolutional Neural Networks (CNNs).
 
 ---
 
