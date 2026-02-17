@@ -28,7 +28,8 @@ I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université C�
 #### 🤖 Autonomous Agents & Tool Orchestration
 * **Automatic Tool Calling:** Building agents that autonomously decide *when* and *how* to use external tools (APIs, Search, Python REPL).
 * **Custom Tool Creation:** Wrapping complex Python logic into `@tool` decorators for LLM consumption.
-* **ReAct & LangGraph:** Implementing robust "Reasoning + Acting" loops with self-correction capabilities using **LangChain v1.x**.
+* **ReAct & LangChain:** Implementing robust "Reasoning + Acting" loops with self-correction capabilities using **LangChain v1.x**.
+* * **LangGraph:** Soon will upload  **Agentic AI  Project** which will cover all  challanges we are facing in langchain.
 
 #### 👁️ Computer Vision & Medical AI
 * **Detection & Tracking:** Leveraging **YOLOv8, Faster R-CNN, and SSD** for real-time object detection and tracking.
