@@ -26,71 +26,102 @@ I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université C�
 ### 🔬 Deep Dive: Areas of Expertise
 
 #### 🤖 Autonomous Agents & Tool Orchestration
-* **Automatic Tool Calling:** Building agents that autonomously decide *when* and *how* to use external tools (APIs, Search, Python REPL).
-* **Custom Tool Creation:** Wrapping complex Python logic into `@tool` decorators for LLM consumption.
-* **ReAct & LangChain:** Implementing robust "Reasoning + Acting" loops with self-correction capabilities using **LangChain v1.x**.
-* **LangGraph:** Soon will upload  **Agentic AI  Project** which will cover all  challanges we are facing in langchain.
+* Automatic Tool Calling  
+* Custom Tool Creation  
+* ReAct & LangChain workflows  
+* LangGraph stateful pipelines  
 
 #### 👁️ Computer Vision & Medical AI
-* **Detection & Tracking:** Leveraging **YOLOv8, Faster R-CNN, and SSD** for real-time object detection and tracking.
-* **Medical Imaging:** Specialized in **U-Net** for segmentation and high-dimensional biological data analysis (LC-MS).
+* YOLOv8, Faster R-CNN, SSD  
+* U-Net segmentation  
+* High-dimensional biological data analysis  
 
 #### 🗣️ Natural Language Processing (NLP)
-* **Modern Transformers:** Utilization of **BERT, RoBERTa, and GPT** models for classification and generation.
-* **RAG Systems:** Building Retrieval-Augmented Generation pipelines using **LangChain** and Vector Databases (FAISS).
+* Transformer-based models  
+* Retrieval-Augmented Generation (RAG)  
+* Domain-specific fine-tuning  
 
 #### ⚡ Full Stack & Edge AI Integration
-* **Optimization:** Converting heavy models to **ONNX and TFLite** formats for edge inference.
-* **Integration:** Wrapping AI models into full-stack applications using **Flutter (Dart), React.js**, and **Flask**.
+* ONNX & TFLite optimization  
+* Flutter, React, Flask deployment  
 
 ---
 
 ### 📂 Spotlight Repository: The Agent Grid
 
 ### [🦜🔗 LangChain Practice & Agent Patterns](https://github.com/ubaidur404786/langchain-practice)
-A comprehensive repository where I construct a **Grid of Techniques** for building AI Agents across different domains.
 
-| **Technique** | **Description** |
-| :--- | :--- |
-| **🔥 Fine-Tuning** | End-to-end pipeline: **SAP Dataset Extraction** from raw JSON logs -> **QLoRA Fine-Tuning** on 6GB VRAM (TinyLlama/Gemma). |
-| **🧩 Custom Tools** | Creating specific `@tool` functions for weather, stock data, and mathematical computation. |
-| **🔄 Auto-Calling** | Implementing **Automatic Tool Calling** where the LLM parses args and executes functions without manual intervention. |
-| **🕸️ LangGraph** | Transitioning from legacy `AgentExecutor` to modern stateful graphs for complex workflows. |
+A structured repository exploring modern agent architectures and tool orchestration.
 
 ---
 
 ### 🏆 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
-      <p><strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer:</a></strong> PyTorch implementation of a Deep Convolutional GAN to synthesize realistic 64x64 human faces from random noise.</p>
-      <p><strong>• <a href="https://github.com/ubaidur404786/langchain-practice/tree/main/Dataset%20Extraction%20and%20LLM%20Fine%20tuning">SAP KBA Fine-Tuning (QLoRA):</a></strong> Built a custom dataset from SAP JSON logs and fine-tuned <strong>TinyLlama-1.1B</strong> on low-resource hardware (RTX 3050) for technical support QA.</p>
-      <p><strong>• YouTube RAG Bot:</strong> QA system using LangChain to answer questions from video transcripts.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Engineering & Edge AI</h3>
-      <p><strong>• SmartScan AI:</strong> Real-time YOLOv8 inference on mobile devices optimized via TFLite.</p>
-      <p><strong>• Activity Recognition App:</strong> 1D-CNN running at 50Hz on Android for human activity tracking.</p>
-      <p><strong>• LC-MS Recognition:</strong> Classified 28 bacterial species using Dimensionality Reduction (PCA, VAE) on 100k+ features.</p>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📡 Time-Series & Medical AI</h3>
+
+<p>
+<strong>• <a href="https://github.com/ubaidur404786/millet_ecg/tree/main">ECG5000 MILLET Interpretability</a></strong><br>
+Interpretable time-series classification using Multiple Instance Learning and InceptionTime.
+</p>
+
+<p>
+<strong>• LC-MS Recognition</strong><br>
+Bacterial species classification using PCA and Variational Autoencoders.
+</p>
+
+<p>
+<strong>• Activity Recognition App</strong><br>
+Real-time 1D-CNN deployed on Android devices.
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 Generative AI & LLM Engineering</h3>
+
+<p>
+<strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer</a></strong><br>
+Synthetic face generation using Deep Convolutional GANs.
+</p>
+
+<p>
+<strong>• SAP KBA Fine-Tuning (QLoRA)</strong><br>
+Domain-adapted TinyLlama fine-tuning pipeline.
+</p>
+
+<p>
+<strong>• YouTube RAG Bot</strong><br>
+LLM-powered question answering system from video transcripts.
+</p>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
 ### 📚 Other Interesting Repositories
 
-* **[🎵 Signal Pre-Processing for Deep Learning](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning):** A "Zero to Hero" guide on converting raw audio waveforms into Mel-Spectrograms (Images) for Convolutional Neural Networks (CNNs).
+* **[🎵 Signal Pre-Processing for Deep Learning](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning)**  
+Signal-to-feature transformation pipelines.
 
 ---
 
-### 🚧 Cooking in the Lab (Coming Soon) 👨‍🍳
-* **Advanced RL Agents:** Solving complex control environments with DQL.
-* **Generative AI SaaS:** A full-stack prototype leveraging custom LLM fine-tuning.
-* **Personal Utility Tools:** More open-source tools for developer productivity.
+### 🚧 Cooking in the Lab
+
+* Advanced Reinforcement Learning Agents  
+* Generative AI SaaS Platform  
+* Autonomous Multi-Agent Systems  
 
 ---
 
-<p align="center"><i>Let's connect and build the future of Intelligent Systems!</i></p>
+<p align="center">
+<i>Let's connect and build the future of Intelligent Systems.</i>
+</p>
