@@ -68,7 +68,10 @@ A structured repository exploring modern agent architectures and tool orchestrat
 <strong>• <a href="https://github.com/ubaidur404786/millet_ecg/tree/main">ECG5000 MILLET Interpretability</a></strong><br>
 Interpretable time-series classification using Multiple Instance Learning and InceptionTime.
 </p>
-
+<p>
+<strong>• <a href="[https://github.com/ubaidur404786/millet_ecg/tree/main](https://github.com/ubaidur404786/health-interpretable-ts)">InterpGN ECG100  Interpretability</a></strong><br>
+Interpretable time-series classification, Interpretability using InterpGN model.
+</p>
 <p>
 <strong>• LC-MS Recognition</strong><br>
 Bacterial species classification using PCA and Variational Autoencoders.
