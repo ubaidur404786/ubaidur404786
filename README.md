@@ -1,130 +1,126 @@
-# Hi there, I'm Ubaid Ur Rehman! 👋
+<h1 align="center">Ubaid Ur Rehman</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubaid-ur-rehman-422212177/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ubaidfr404786@gmail.com)
-[![Location Badge](https://img.shields.io/badge/-Valbonne%2C%20France-gray?style=flat&logo=google-maps&logoColor=white)]()
+<p align="center">
+  <b>AI / Machine Learning Engineer</b> — I take models from <i>research notebook</i> → <i>trained pipeline</i> → <i>running in production, on a server or on a microcontroller.</i>
+</p>
 
-I am an **AI Engineer** and **MSc Data Science & AI Student** at *Université Côte d'Azur*. I specialize in bridging the gap between **Advanced Deep Learning Research** (NLP, Medical AI, Vision) and **Production Engineering** (Edge AI, Autonomous Agents).
-
----
-
-### 🛠️ The Tech Arsenal
-
-| **Domain** | **Technologies & Frameworks** |
-| :--- | :--- |
-| **🧠 Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
-| **🤖 Agentic AI** | ![LangChain](https://img.shields.io/badge/🦜🔗-LangChain-blue) ![LangGraph](https://img.shields.io/badge/LangGraph-FF007F?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![AutoGPT](https://img.shields.io/badge/AutoGPT-ECCB2F?style=flat) |
-| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black) ![Medical](https://img.shields.io/badge/Medical_AI-red?style=flat&logo=medical) |
-| **🗣️ NLP & LLMs** | ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Systems-orange) |
-| **📱 Edge & Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) |
-| **⚡ Full Stack AI** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) |
-| **⚙️ MLOps & RL** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-black?style=flat&logo=openai) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
-| **📡 Signal Processing** | ![Torchaudio](https://img.shields.io/badge/Torchaudio-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Librosa](https://img.shields.io/badge/Librosa-FFA500?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/ubaid-ur-rehman-422212177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ubaidfr404786@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Lille,%20France-3B4D61?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%202026%20roles-2E8B57?style=for-the-badge" />
+</p>
 
 ---
 
-### 🔬 Deep Dive: Areas of Expertise
+### Where I am right now
 
-#### 🤖 Autonomous Agents & Tool Orchestration
-* Automatic Tool Calling  
-* Custom Tool Creation  
-* ReAct & LangChain workflows  
-* LangGraph stateful pipelines  
+**ML Engineer Intern — Edge AI @ CRIStAL Laboratory (FOX Team), Lille**
+Building **interpretable time-series classifiers that fit on microcontrollers**. I redesign CNN / TCN / Transformer architectures layer by layer, compress parameters without losing baseline accuracy, and keep the model explainable after compression. Findings currently being prepared for publication.
 
-#### 👁️ Computer Vision & Medical AI
-* YOLOv8, Faster R-CNN, SSD  
-* U-Net segmentation  
-* High-dimensional biological data analysis  
+**MSc Data Science & AI** — Université Côte d'Azur · **BSc Software Engineering, Bronze Medalist** (3rd / 93) — CUST Islamabad
+Before academia: **2 years shipping AI features into Android apps with 200K+ downloads.**
 
-#### 🗣️ Natural Language Processing (NLP)
-* Transformer-based models  
-* Retrieval-Augmented Generation (RAG)  
-* Domain-specific fine-tuning  
-
-#### ⚡ Full Stack & Edge AI Integration
-* ONNX & TFLite optimization  
-* Flutter, React, Flask deployment  
+> That last line is the part I'd underline. I didn't learn deployment from a tutorial — I learned it from users filing bug reports.
 
 ---
 
-### 📂 Spotlight Repository: The Agent Grid
-
-### [🦜🔗 LangChain Practice & Agent Patterns](https://github.com/ubaidur404786/langchain-practice)
-
-A structured repository exploring modern agent architectures and tool orchestration.
-
----
-
-### 🏆 Featured Projects
+## What I actually do
 
 <table>
 <tr>
+<td width="25%" valign="top">
 
-<td width="50%">
-
-<h3 align="center">📡 Time-Series & Medical AI</h3>
-
-<p>
-<strong>• <a href="https://github.com/ubaidur404786/millet_ecg/tree/main">ECG5000 MILLET Interpretability</a></strong><br>
-Interpretable time-series classification using Multiple Instance Learning and InceptionTime.
-</p>
-<p>
-<strong>• <a href="https://github.com/ubaidur404786/health-interpretable-ts">InterpGN ECG100  Interpretability</a></strong><br>
-Interpretable time-series classification using InterpGN model.
-</p>
-<p>
-<strong>• LC-MS Recognition</strong><br>
-Bacterial species classification using PCA and Variational Autoencoders.
-</p>
-
-<p>
-<strong>• Activity Recognition App</strong><br>
-Real-time 1D-CNN deployed on Android devices.
-</p>
+### 📈 Time Series
+Interpretable classification (MILLET, InterpGN), 1D-CNN, TCN, InceptionTime, signal→feature pipelines, sensor & ECG data.
 
 </td>
+<td width="25%" valign="top">
 
-<td width="50%">
-
-<h3 align="center">🤖 Generative AI & LLM Engineering</h3>
-
-<p>
-<strong>• <a href="https://github.com/ubaidur404786/gan-ai">DCGAN Face Synthesizer</a></strong><br>
-Synthetic face generation using Deep Convolutional GANs.
-</p>
-
-<p>
-<strong>• SAP KBA Fine-Tuning (QLoRA)</strong><br>
-Domain-adapted TinyLlama fine-tuning pipeline.
-</p>
-
-<p>
-<strong>• YouTube RAG Bot</strong><br>
-LLM-powered question answering system from video transcripts.
-</p>
+### 👁️ Computer Vision
+YOLOv8, Faster R-CNN, U-Net segmentation, Vision Transformers, medical & agricultural imaging, OCR.
 
 </td>
+<td width="25%" valign="top">
 
+### 🧠 LLMs & Agents
+QLoRA fine-tuning, RAG systems, knowledge graphs, LangChain / LangGraph tool orchestration.
+
+</td>
+<td width="25%" valign="top">
+
+### ⚙️ ML Engineering
+Docker, MLflow, Optuna, Git/GitHub workflows, ONNX & TFLite export, quantization, pruning, Flask/React serving.
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 📚 Other Interesting Repositories
+## Selected work
 
-* **[🎵 Signal Pre-Processing for Deep Learning](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning)**  
-Signal-to-feature transformation pipelines.
+| Project | Problem | Result |
+| :--- | :--- | :--- |
+| **[MILLET — ECG5000 Interpretability](https://github.com/ubaidur404786/millet_ecg)** | Time-series models are accurate but opaque | Multiple Instance Learning + InceptionTime giving per-segment explanations |
+| **[InterpGN — ECG Interpretability](https://github.com/ubaidur404786/health-interpretable-ts)** | Clinicians need to see *why* | Interpretable-by-design classification pipeline |
+| **LC-MS Bacteria Recognition** *(UCA × CHU Laval)* | 28 species, high-dimensional spectra, heavy batch effects | VAE + denoising AE + BERNN-style correction, Optuna/MLflow tuned — **32% → 82% accuracy** · [report](https://drive.google.com/file/d/1XCciQaTciJ-t0IniXQb7DSlyLy0K1yMR/view?usp=sharing) |
+| **SAP KBA Fine-Tuning (QLoRA)** *(SAP, Sophia Antipolis)* | Technical support questions buried in KB articles | Domain-tuned LLM + knowledge graph + semantic clustering for retrieval |
+| **[LangChain / Agent Patterns](https://github.com/ubaidur404786/langchain-practice)** | — | Structured reference repo on tool calling, ReAct, LangGraph state machines |
+| **PlantCLEF 2025** | Multi-label species ID under occlusion & lighting shift | CNN + ViT pipelines, hierarchical taxonomy modeling, uncertainty estimation |
+| **[Smart Aquaponic System](https://github.com/ubaidur404786/Smart-Aquaponic-System)** | Farmers can't monitor crops continuously | IoT sensors + CNN disease detection + Android app with live alerts |
+| **[DCGAN Face Synthesizer](https://github.com/ubaidur404786/gan-ai)** | — | Generative face synthesis from scratch |
+| **[Signal Pre-Processing for DL](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning)** | — | Reusable signal→feature transformation toolkit |
 
 ---
 
-### 🚧 Cooking in the Lab
+## How I work
 
-* Advanced Reinforcement Learning Agents  
-* Generative AI SaaS Platform  
-* Autonomous Multi-Agent Systems  
+```text
+data audit  →  baseline first  →  experiment tracking (MLflow) from day one
+            →  tune (Optuna)   →  compress (quantize / prune / ONNX / TFLite)
+            →  containerize (Docker)  →  serve (Flask / React / Android)
+            →  measure again on the real device
+```
+
+I'd rather ship a 92% model that runs in 8 MB on an MCU than a 95% model that lives in a notebook forever.
+
+---
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+## Currently learning & building
+
+Because the gaps are worth naming out loud:
+
+- [ ] **Kubernetes + CI/CD for ML** — I containerize well; orchestration at scale is my next step
+- [ ] **Reinforcement learning agents** (Gymnasium) — beyond supervised settings
+- [ ] **A multi-agent generative AI SaaS** — end to end, my own infrastructure
+- [ ] **First-author publication** from the CRIStAL edge-AI research
+
+I'm early in my career and I know exactly which boxes I haven't ticked yet. What I bring instead is speed: I learned TFLite quantization because an app needed it, knowledge graphs because SAP needed it, and batch-effect correction because a Canadian hospital's data demanded it. Give me the problem and I'll close the gap.
 
 ---
 
 <p align="center">
-<i>Let's connect and build the future of Intelligent Systems.</i>
+  <b>Open to ML / AI Engineer roles from 2026 — France, EU, or remote.</b><br>
+  <a href="mailto:ubaidfr404786@gmail.com">ubaidfr404786@gmail.com</a> · 🇬🇧 English (fluent) · 🇫🇷 French (learning)
 </p>
