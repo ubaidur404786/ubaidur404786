@@ -1,6 +1,6 @@
 # Hi, I'm Ubaid 👋
 
-AI & Machine Learning · Software Engineering · Lille, France
+AI & Machine Learning · Data Science · Software Engineering · Lille, France
 
 **Available now** for full-time roles in France, the EU.
 [Email](mailto:ubaidfr404786@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ubaid-ur-rehman-422212177/)
@@ -9,19 +9,20 @@ AI & Machine Learning · Software Engineering · Lille, France
 
 I've finished my MSc in Data Science and AI at Université Côte d'Azur, after a BSc in Software Engineering at CUST Islamabad (3rd of 93, bronze medal). Before the Master's I spent two years adding AI features to Android apps with 200K+ downloads. That's where I really learned deployment, because users tell you very quickly when something doesn't work.
 
-I like taking a problem the whole way: understand it, build the model, test it properly, run it on a server or a small chip, and put a backend around it so people can use it. AI splits this into a lot of job titles, but for me it's one pipeline, and I've worked on most parts of it. In the end what matters is the problem, and how well you solve it.
+I like taking a problem the whole way: understand it, explore the data, build the model, test it properly, run it on a server or a small chip, and put a backend around it so people can use it. Before any model, I look at the data carefully and use statistics to check whether a result is real or just noise. AI splits this into a lot of job titles, but for me it's one pipeline, and I've worked on most parts of it. In the end what matters is the problem, and how well you solve it.
 
 When a project needs something I don't know yet, I learn it. TFLite Micro because a model had to fit on a chip, knowledge graphs because SAP needed them, batch-effect correction because a hospital's lab data was messy, and LLM evaluation because I didn't want to ship a chatbot I couldn't test.
 
-**Open to:** ML Engineer · AI Engineer · Data Scientist · LLM / Agent Engineer · Edge AI Engineer · AI Backend Engineer
+**Open to:** ML Engineer · AI Engineer · Data Scientist · Data Analyst · LLM / Agent Engineer · Edge AI Engineer · AI Backend Engineer
 
 ## Most recently
 
-Machine Learning Edge AI research intern at **INRIA,CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. A paper is submitted.
+Machine Learning Edge AI research intern at **INRIA, CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. A paper is submitted.
 
 ## Selected projects
 
 - **[EdgeBench](https://github.com/ubaidur404786/edgebench)**: takes a PyTorch model all the way to an ESP32-S3 chip and checks the chip gives the same answers as the laptop.
+- **[Data Analysis Experiments](https://github.com/ubaidur404786/data-analysis-experiments)**: statistics, A/B testing and estimation worked out on real datasets, explained step by step.
 - **[AI Support Platform](https://github.com/ubaidur404786/ai-support-platform)**: an AI support backend I'm building from an empty folder, one version at a time.
 - **[RAG Evaluation Framework](https://github.com/ubaidur404786/deep_eval_pipeline)** ([live demo](https://rag-eval-framework.streamlit.app)): tests whether an AI assistant's answers are actually correct.
 - **[TelcoAssist](https://github.com/ubaidur404786/telco-assist)**: a support assistant that decides whether to query a database or search documents before it answers.
@@ -34,6 +35,7 @@ Each repo has its own README with the details and results.
 
 ## Tools
 
+- **Data & statistics:** pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn, SQL
 - **Models:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV
 - **LLMs:** LangChain, LangGraph, Chroma, QLoRA, RAG evaluation
 - **Edge:** ONNX, TFLite Micro, ESP32, C/C++, Edge Impulse
