@@ -22,7 +22,7 @@ Machine Learning Edge AI research intern at **INRIA, CRIStAL Laboratory** (FOX t
 ## Selected projects
 
 - **[EdgeBench](https://github.com/ubaidur404786/edgebench)**: takes a PyTorch model all the way to an ESP32-S3 chip and checks the chip gives the same answers as the laptop.
-- **[Data Analysis Experiments](https://github.com/ubaidur404786/data-analysis-experiments)**: statistics, A/B testing and estimation worked out on real datasets, explained step by step.
+- **[A/B Testing & Statistics Case Studies](https://github.com/ubaidur404786/data-analysis-experiments)**: a 90,189-player A/B test analysed end to end (day-7 retention 19.02% vs 18.20%, p = 0.0016, about 8,200 fewer players per 1M installs), plus 16 notebooks on statistics and linear/logistic regression, each worked out by hand and checked in Python.
 - **[AI Support Platform](https://github.com/ubaidur404786/ai-support-platform)**: an AI support backend I'm building from an empty folder, one version at a time.
 - **[RAG Evaluation Framework](https://github.com/ubaidur404786/deep_eval_pipeline)** ([live demo](https://rag-eval-framework.streamlit.app)): tests whether an AI assistant's answers are actually correct.
 - **[TelcoAssist](https://github.com/ubaidur404786/telco-assist)**: a support assistant that decides whether to query a database or search documents before it answers.
@@ -35,7 +35,7 @@ Each repo has its own README with the details and results.
 
 ## Tools
 
-- **Data & statistics:** pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn, SQL
+- **Data & statistics:** pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn, SQL · hypothesis testing, A/B testing, ANOVA, linear and logistic regression
 - **Models:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV
 - **LLMs:** LangChain, LangGraph, Chroma, QLoRA, RAG evaluation
 - **Edge:** ONNX, TFLite Micro, ESP32, C/C++, Edge Impulse
