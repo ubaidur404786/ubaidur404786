@@ -17,7 +17,7 @@ When a project needs something I don't know yet, I learn it. TFLite Micro becaus
 
 ## Most recently
 
-Machine Learning Edge AI research intern at **INRIA, CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. A paper is submitted.
+Machine Learning / Edge AI research intern at **Inria, CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. My model, SEA-Net, is about 10× smaller than the baseline and more accurate (94% vs 89%). A paper is in preparation. **[Internship summary →](https://github.com/ubaidur404786/internship-2026)**
 
 ## Selected projects
 
