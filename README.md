@@ -13,7 +13,7 @@ I like taking a problem the whole way: understand it, explore the data, build th
 
 When a project needs something I don't know yet, I learn it. TFLite Micro because a model had to fit on a chip, knowledge graphs because SAP needed them, batch-effect correction because a hospital's lab data was messy, and LLM evaluation because I didn't want to ship a chatbot I couldn't test.
 
-**Open to:** ML Engineer · AI Engineer · Data Scientist · Data Analyst · LLM / Agent Engineer · Edge AI Engineer · AI Backend Engineer
+<!--**Open to:** ML Engineer · AI Engineer · Data Scientist · Data Analyst · LLM / Agent Engineer · Edge AI Engineer · AI Backend Engineer-->
 
 ## Most recently
 
@@ -21,13 +21,14 @@ Machine Learning Edge AI research intern at **INRIA, CRIStAL Laboratory** (FOX t
 
 ## Selected projects
 
-- **[EdgeBench](https://github.com/ubaidur404786/edgebench)**: takes a PyTorch model all the way to an ESP32-S3 chip and checks the chip gives the same answers as the laptop.
-- **[A/B Testing & Statistics Case Studies](https://github.com/ubaidur404786/data-analysis-experiments)**: a 90,189-player A/B test analysed end to end (day-7 retention 19.02% vs 18.20%, p = 0.0016, about 8,200 fewer players per 1M installs), plus 16 notebooks on statistics and linear/logistic regression, each worked out by hand and checked in Python.
+- **[MILLET on ECG](https://github.com/ubaidur404786/millet_ecg)**: an ECG classifier that shows which part of the signal drove its decision.
+- **[Smart Aquaponic System](https://github.com/ubaidur404786/Smart-Aquaponic-System)**: crop disease detection from photos, with alerts sent to a phone app.
 - **[AI Support Platform](https://github.com/ubaidur404786/ai-support-platform)**: an AI support backend I'm building from an empty folder, one version at a time.
 - **[RAG Evaluation Framework](https://github.com/ubaidur404786/deep_eval_pipeline)** ([live demo](https://rag-eval-framework.streamlit.app)): tests whether an AI assistant's answers are actually correct.
 - **[TelcoAssist](https://github.com/ubaidur404786/telco-assist)**: a support assistant that decides whether to query a database or search documents before it answers.
-- **[MILLET on ECG](https://github.com/ubaidur404786/millet_ecg)**: an ECG classifier that shows which part of the signal drove its decision.
-- **[Smart Aquaponic System](https://github.com/ubaidur404786/Smart-Aquaponic-System)**: crop disease detection from photos, with alerts sent to a phone app.
+- **[A/B Testing, Regression & SQL Case Studies](https://github.com/ubaidur404786/data-analysis-experiments)**: 20 notebooks on real data covering A/B testing, linear and logistic regression, SQL and guesstimates, each worked out by hand and checked in Python.\
+  A/B test on 90,189 players: moving the gate cut day-7 retention from 19.02% to 18.20% (p = 0.0016), about 8,200 fewer players per 1M installs, so the gate stays where it was.
+- **[EdgeBench](https://github.com/ubaidur404786/edgebench)**: takes a PyTorch model all the way to an ESP32-S3 chip and checks the chip gives the same answers as the laptop.
 
 **Also:** [edge32_gunpoint](https://github.com/ubaidur404786/edge32_gunpoint) · [ml-impulse-edge-esp32](https://github.com/ubaidur404786/ml-impulse-edge-esp32) · [InterpGN on ECG](https://github.com/ubaidur404786/health-interpretable-ts) · [Signal pre-processing](https://github.com/ubaidur404786/signal-pre-processing-in-deep-learning) · [Agent patterns](https://github.com/ubaidur404786/langchain-practice) · [DCGAN faces](https://github.com/ubaidur404786/gan-ai) · LC-MS bacteria recognition with CHU Laval ([report](https://drive.google.com/file/d/1XCciQaTciJ-t0IniXQb7DSlyLy0K1yMR/view?usp=sharing)) · SAP KBA fine-tuning at SAP · PlantCLEF 2025
 
