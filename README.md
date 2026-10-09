@@ -17,7 +17,7 @@ When a project needs something I don't know yet, I learn it. TFLite Micro becaus
 
 ## Most recently
 
-Machine Learning / Edge AI research intern at **Inria, CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. My model, SEA-Net, is about 10× smaller than the baseline and more accurate (94% vs 89%). A paper is in preparation. **[Internship summary →](https://github.com/ubaidur404786/internship-2026)**
+Machine Learning / Edge AI research intern at **Inria, CRIStAL Laboratory** (FOX team), Lille. I worked on small time-series models that run on microcontrollers and can explain their own decisions. My model, SEA-Net, is about 10× smaller than the baseline and more accurate (94% vs 89%). A paper is under review at a major ML conference. **[Internship summary →](https://github.com/ubaidur404786/internship-2026)**
 
 ## Selected projects
 
@@ -25,6 +25,8 @@ Machine Learning / Edge AI research intern at **Inria, CRIStAL Laboratory** (FOX
 - **[Smart Aquaponic System](https://github.com/ubaidur404786/Smart-Aquaponic-System)**: crop disease detection from photos, with alerts sent to a phone app.
 - **[AI Support Platform](https://github.com/ubaidur404786/ai-support-platform)**: an AI support backend I'm building from an empty folder, one version at a time.
 - **[RAG Evaluation Framework](https://github.com/ubaidur404786/deep_eval_pipeline)** ([live demo](https://rag-eval-framework.streamlit.app)): tests whether an AI assistant's answers are actually correct.
+- **[Mini ClicDossier](https://github.com/ubaidur404786/mini-clicdossier)** ([French report](https://ubaidur404786.github.io/mini-clicdossier/report_fr.html)): checks French loan files fully on the laptop (OCR + a local LLM), so personal data never goes to a cloud service. One file of 4 documents, scanned pages included, is checked in ~8 seconds on a 6 GB laptop GPU.\
+  On 30 synthetic loan files (114 pages): 97.7% of fields extracted exactly, 6/6 planted mismatches caught with 0 false alerts, and no file wrongly marked OK.
 - **[TelcoAssist](https://github.com/ubaidur404786/telco-assist)**: a support assistant that decides whether to query a database or search documents before it answers.
 - **[A/B Testing, Regression & SQL Case Studies](https://github.com/ubaidur404786/data-analysis-experiments)**: 20 notebooks on real data covering A/B testing, linear and logistic regression, SQL and guesstimates, each worked out by hand and checked in Python.\
   A/B test on 90,189 players: moving the gate cut day-7 retention from 19.02% to 18.20% (p = 0.0016), about 8,200 fewer players per 1M installs, so the gate stays where it was.
@@ -38,7 +40,8 @@ Each repo has its own README with the details and results.
 
 - **Data & statistics:** pandas, NumPy, SciPy, statsmodels, Matplotlib, seaborn, SQL · hypothesis testing, A/B testing, ANOVA, linear and logistic regression
 - **Models:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV
-- **LLMs:** LangChain, LangGraph, Chroma, QLoRA, RAG evaluation
+- **LLMs:** LangChain, LangGraph, Ollama, Chroma, QLoRA, RAG evaluation, structured extraction (pydantic)
+- **Documents:** Tesseract OCR, PyMuPDF
 - **Edge:** ONNX, TFLite Micro, ESP32, C/C++, Edge Impulse
 - **Engineering:** FastAPI, Flask, PostgreSQL, Docker, MLflow, Optuna, GitHub Actions, Kotlin, Flutter, React, Streamlit
 
