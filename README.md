@@ -1,5 +1,7 @@
 # Hi, I'm Ubaid 👋
 
+**Profile:** https://ubaidur404786.github.io/
+
 AI & Machine Learning · Data Science · Software Engineering · Lille, France
 
 **Available now** for full-time roles in France, the EU.
