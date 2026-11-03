@@ -11,7 +11,7 @@ I design and ship ML systems end to end: **LLM, RAG and agent apps, computer vis
 ### 🔭 About me
 
 - 🧪 **Machine Learning Engineer at Inria** (CRIStAL Lab, Apr – Oct 2026): interpretable time-series AI (SEA-Net) and spiking vision transformers optimization.
-- 📱 **2+ years shipping AI in Web , Mobile ** with **200K+ downloads** at TheXSol (OCR, classification, on-device TFLite).
+- 📱 **2+ years shipping AI in Web , Mobile** with **200K+ downloads** at TheXSol (OCR, classification, on-device TFLite).
 - 🎓 **MSc Data Science & AI**, Université Côte d'Azur · **BSc Software Engineering** (bronze medal)
 - ✍️ Latest article: [Every Second Counts: Uncovering the Temporal Evidence Behind Model Predictions](https://medium.com/@ubaidfr404786/every-second-counts-uncovering-the-temporal-evidence-behind-model-predictions-00282d1ac963)
 
