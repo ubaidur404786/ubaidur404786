@@ -49,4 +49,4 @@ More: [TelcoAssist](https://github.com/ubaidur404786/telco-assist) · [EdgeBench
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubaidfr404786@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ubaidfr404786)
 
-🗣️ English (fluent) · French (learning)
+🗣️ English (fluent) · French (A2–B1, Improving)
