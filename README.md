@@ -10,7 +10,8 @@ I design and ship ML systems end to end: **LLM, RAG and agent apps, computer vis
 
 ### 🔭 About me
 
-- 🧪 **Machine Learning Engineer at Inria** (CRIStAL Lab, Apr – Oct 2026): interpretable time-series AI (SEA-Net) and spiking vision transformers optimization.
+- 🧪 **Machine Learning Engineer at CNRS · CRIStAL Laboratory (FOX Team)** (Apr – Oct 2026): interpretable time-series AI (SEA-Net) and spiking vision transformers (HP-STAtten, co-author, under review).
+- 🧠 **Full LLM lifecycle**: pre-training (data, tokenizer, Transformer), SFT, RLHF (PPO, DPO, GRPO), then the app side: RAG, agents (LangGraph, MCP), evaluation (golden sets, LLM-as-judge, DeepEval), serving (vLLM, llama.cpp) and monitoring (LangSmith).
 - 📱 **2+ years shipping AI in Web , Mobile** with **200K+ downloads** at TheXSol (OCR, classification, on-device TFLite).
 - 🎓 **MSc Data Science & AI**, Université Côte d'Azur · **BSc Software Engineering** (bronze medal)
 - ✍️ Latest article: [Every Second Counts: Uncovering the Temporal Evidence Behind Model Predictions](https://medium.com/@ubaidfr404786/every-second-counts-uncovering-the-temporal-evidence-behind-model-predictions-00282d1ac963)
@@ -30,11 +31,20 @@ More: [TelcoAssist](https://github.com/ubaidur404786/telco-assist) · [EdgeBench
 
 ### 🛠️ Toolkit
 
+**LLM lifecycle:** Pre-training · SFT · RLHF (PPO · DPO · GRPO) · LoRA / QLoRA · RAG · LangGraph · MCP · DeepEval · LangSmith · vLLM · llama.cpp
+
+**Also:** time series · computer vision · data science and statistics
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
